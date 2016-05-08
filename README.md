@@ -43,6 +43,11 @@ pip3 install flask
 ```
 This should take care of a majority of the packages that you will need to develop the rest of this app's boilerplate.
 
+### Setting UP Postgres
+This should server as a [great walk-through](http://www.whiteboardcoder.com/2015/04/install-and-setup-postgres-93-db-on.html) of setting up user permissions.
+And if you're hyped on caffiene and need a video, [Patrick Bailey](https://www.youtube.com/channel/UC7C8eUY-Uq6OICEDeBGeb9w) is worth following on [YouTube](https://www.youtube.com/watch?v=67XGzdzv9k0).  Great videos.
+
+
 ### File Structure
 The file strucute for Flask is simiar to Django, but can be less structured.
 ```
@@ -51,6 +56,8 @@ mkdir ~/projects/flask-projects
 cd projects/flask-projects
 git clone <this repo>
 ```
+
+
 
 
 #### Using rmate 
